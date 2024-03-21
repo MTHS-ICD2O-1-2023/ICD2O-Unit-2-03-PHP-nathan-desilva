@@ -50,9 +50,6 @@
           <input class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" type="submit">
         </form>
       <br />
-      <div class="page-content-answer">
-        <div id="user-info">
-          Your address is:
         </div>
     </main>
   </div>
